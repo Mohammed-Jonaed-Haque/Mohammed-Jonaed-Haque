@@ -34,12 +34,12 @@ IT student (Artificial Intelligence) at Macquarie University, Sydney — buildin
 ### 📊 My GitHub stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohammed-Jonaed-Haque&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=Mohammed-Jonaed-Haque&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohammed-Jonaed-Haque&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Mohammed-Jonaed-Haque&theme=radical&hide_border=true"/>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Jonaed-Haque&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Jonaed-Haque&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
