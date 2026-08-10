@@ -46,7 +46,6 @@ IT student (Artificial Intelligence) at Macquarie University, Sydney — buildin
 
 ### 🤝 Let's connect
 
-[![Email](https://img.shields.io/badge/-jonaedhaque718@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jonaedhaque718@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-jonaed-haque/)
 
 📍 Sydney, Australia — open to internship and graduate opportunities
