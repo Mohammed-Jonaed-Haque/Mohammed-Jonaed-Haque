@@ -34,18 +34,19 @@ IT student (Artificial Intelligence) at Macquarie University, Sydney — buildin
 ### 📊 My GitHub stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohammed-Jonaed-Haque&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://streak-stats.demolab.com?user=Mohammed-Jonaed-Haque&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohammed-Jonaed-Haque&show_icons=true&theme=radical&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Mohammed-Jonaed-Haque&theme=radical&hide_border=true" height="165"/>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Jonaed-Haque&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Jonaed-Haque&layout=compact&theme=radical&hide_border=true" height="165"/>
 </p>
 
 ---
 
 ### 🤝 Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohammed-jonaed-haque/)
+[![Email](https://img.shields.io/badge/-jonaedhaque718@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jonaedhaque718@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-jonaed-haque/)
 
 📍 Sydney, Australia — open to internship and graduate opportunities
