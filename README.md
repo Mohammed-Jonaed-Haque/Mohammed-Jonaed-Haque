@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./avatar_v2.svg" width="150" alt="Mohammed Jonaed Haque" />
+</p>
+
 ### 👋 Hi there, I'm Mohammed Jonaed Haque!
 
 ![Profile views](https://komarev.com/ghpvc/?username=Mohammed-Jonaed-Haque&color=blue&style=flat-square&label=Profile+views)
