@@ -1,4 +1,3 @@
-@@ -0,0 +1,51 @@
 ### 👋 Hi there, I'm Mohammed Jonaed Haque!
 
 ![Profile views](https://komarev.com/ghpvc/?username=Mohammed-Jonaed-Haque&color=blue&style=flat-square&label=Profile+views)
