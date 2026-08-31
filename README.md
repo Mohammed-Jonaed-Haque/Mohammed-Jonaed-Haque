@@ -1,6 +1,4 @@
-   <p align="center">
-     <img src="./assets/avatar_v4.svg" width="150" alt="Mohammed Jonaed Haque" />
-   </p>
+<p align="center"><img src="./avatar_v4.svg" width="150" alt="Mohammed Jonaed Haque" /></p>
 
 ### 👋 Hi there, I'm Mohammed Jonaed Haque!
 
