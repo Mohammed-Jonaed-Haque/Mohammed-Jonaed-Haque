@@ -5,16 +5,9 @@
       transform-origin: 110px 110px;
       animation: spin 4s linear infinite;
     }
-    .initials {
-      animation: pulse 3s ease-in-out infinite;
-    }
     @keyframes spin {
       from { transform: rotate(0deg); }
       to { transform: rotate(360deg); }
-    }
-    @keyframes pulse {
-      0%, 100% { fill: #ffffff; }
-      50% { fill: #58a6ff; }
     }
   </style>
 
@@ -23,17 +16,17 @@
       <stop offset="0%" stop-color="#00d1ff"/>
       <stop offset="100%" stop-color="#7b2ff7"/>
     </linearGradient>
+    <clipPath id="photoClip">
+      <circle cx="110" cy="110" r="88"/>
+    </clipPath>
   </defs>
 
-  <circle cx="110" cy="110" r="90" fill="#0d1117"/>
+  <image href="https://avatars.githubusercontent.com/u/226615645?v=4"
+         x="22" y="22" width="176" height="176"
+         clip-path="url(#photoClip)" preserveAspectRatio="xMidYMid slice"/>
 
   <circle class="ring" cx="110" cy="110" r="96" fill="none" stroke="url(#ringGrad)"
           stroke-width="5" stroke-linecap="round" stroke-dasharray="420 180"/>
 
-  <text class="initials" x="110" y="122" text-anchor="middle"
-        font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="700" fill="#ffffff">
-    MJH
-  </text>
-
-  <circle cx="110" cy="110" r="90" fill="none" stroke="#30363d" stroke-width="1"/>
+  <circle cx="110" cy="110" r="88" fill="none" stroke="#30363d" stroke-width="1"/>
 </svg>
